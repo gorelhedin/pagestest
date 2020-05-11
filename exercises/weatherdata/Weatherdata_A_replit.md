@@ -46,8 +46,8 @@ Lösning
 print("Dagarna är:")
 print(days)
 </code></pre></p>
-<p></p>
 </details>
+<p></p>
 
 
 **Uppdrag 1.1 c:** Lägg till kod som på liknande sätt skapar en lista `rain` med värdena för regnmängderna i tabellen. Anropa också `print` som tidigare så att du kan se att den nya listan har rätt värden.
