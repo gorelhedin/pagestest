@@ -1,6 +1,5 @@
-# Välkommen till pagestest
-Här experimenterar vi med en statisk websida
+# Välkommen till våra övningar
 
-Se vår [övningssida](exercises/README.md).
+Här hittar du vårt [övningsmaterial](exercises/README.md).
 
-Se också följande övning: [Väderdata](exercises/weatherdata/Weatherdata_A_replit.md)
+Prova gärna också vår aktivitetssida [Koll på kol](https://docs.google.com/presentation/d/1zIb77mNY2zLDaWUqs3IE2PvppxPZyTYJm_C_aYoWiyw/present) med inspirationsövningar.
