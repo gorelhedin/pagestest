@@ -48,7 +48,7 @@ print(days)
 </code></pre></p>
 </details>
 
-\
+
 **Uppdrag 1.1 c:** Lägg till kod som på liknande sätt skapar en lista `rain` med värdena för regnmängderna i tabellen. Anropa också `print` som tidigare så att du kan se att den nya listan har rätt värden.
 
 <details>
@@ -63,7 +63,7 @@ print(rain)
 </p>
 </details>
 
-\
+
 I fortsättningen kommer vi att använda variablerna `days`, `temps` och `rain`, så behåll koden som räknar ut dem. Print-satserna har vi bara haft för att kontrollera att rätt sak räknas ut, så de behövs inte längre. Du kan antingen ta bort dem, eller *kommentera* bort dem: I Python används brädgård (`#`) för att ange att resten av raden är en kommentar. Till exempel:
 
 ```python
@@ -124,7 +124,7 @@ print(rounded)</code></pre>
 </p>
 </details>
 
-\
+
 **Uppdrag 1.2 e:** Nu när vi vet hur man räknar ut summan och längden av en lista så kan vi lätt räkna ut medeltemperaturen för värdena i `temps`. Skriv kod som räknar ut medeltemperaturen och skriver ut resultatet, avrundat till en decimal.
 
 *Tips!*  Du kan skriva koden så att du gör varje sak i tur och ordning och sparar varje delresultat i en variabel:
@@ -155,7 +155,7 @@ Eller som en enda rad:
 </p>
 </details>
 
-\
+
 Observera att om man skriver allt på samma rad kan det ibland bli svårläst, även om koden blir kortare. Det kan vara bra att dela upp en stor beräkning i delar och sätta namn på de viktiga delarna. Då blir koden mer lättläst.
 
 **Uppdrag 1.2 f:** Ändra din kod så att du använder två rader: en där du räknar ut medelvärdet av temperaturerna, och en där du avrundar och skriver ut. Något i följande stil:
@@ -178,7 +178,7 @@ print(round(average_temp, 1))</code>
 </p>
 </details>
 
-\
+
 **Uppdrag 1.2 g:** Lägg till liknande kod för att räkna ut medelvärdet av regnmängderna.
 
 <details>
@@ -193,7 +193,7 @@ print(round(average_rain, 1))</code>
 </details>
 
 
-\
+
 **Uppdrag 1.2 h:** Snygga till ditt program så att du bara har kvar koden för att räkna ut `days`, `temps`, `rain`, `average_temp` och `average_rain`. Övrig kod kan tas bort eller kommenteras bort.
 
 ### 1.3 Accessa list-element
@@ -224,7 +224,7 @@ Lösning
 </code></pre></p>
 </details>
 
-\
+
 **Uppdrag 1.3 d:** Skriv kod som räknar ut medelvärdet av de tre första elementen i `rain`.
 
 *Tips!* Gör detta genom att lägga ihop de tre värdena och dividera med tre. Kalla detta värde t.ex. `avg3`. Därefter avrundar du och skriver ut resultatet.
@@ -267,7 +267,7 @@ Lösning
 </code></pre></p>
 </details>
 
-\
+
 **Uppdrag 1.4 d:** För att loopa ett visst antal gånger används ofta  en `for` loop med en `range`. Provkör följande exempel.
 ```python
 for i in range(4):
@@ -303,7 +303,7 @@ Lösning
 </code></pre></p>
 </details>
 
-\
+
 **Uppdrag 1.4 g:** Ändra koden så att du lägger till begriplig text, t.ex. så att de första två raderna blir
 
     Den 3 juni var temperaturen 14.1 grader och det regnade 0 mm.
@@ -318,7 +318,7 @@ Lösning
 </code></pre></p>
 </details>
 
-\
+
 **Uppdrag 1.4 h:** I följande uppgifter behöver du ha kvar koden som räknar ut `days`, `temps` och `rain`. Övrig kod kan tas bort eller kommenteras bort.
 
 ## 2. Plottning
@@ -361,7 +361,7 @@ Lösning
 <p>
 I felmeddelandet kan man se att första listan har längden 3, medan den andra har längden 6. För att bli av med felmeddelandet kan man ändra första listan så att den också får 6 element. Till exempel:
 <pre><code>plt.plot([3, 7, 10, 11, 14, 17], temps)
-</pre></code></p>
+</code></pre></p>
 </details>
 
 ### 2.3 Gör en mer informativ plott
