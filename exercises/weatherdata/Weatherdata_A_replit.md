@@ -46,6 +46,7 @@ Lösning
 print("Dagarna är:")
 print(days)
 </code></pre></p>
+<p></p>
 </details>
 
 
@@ -449,7 +450,7 @@ plt.xlabel("dag")
 plt.ylabel("mm eller grader")
 plt.legend()
 plt.savefig("regnochtemp.png")
-</pre></code></p>
+</code></pre></p>
 </details>
 
 ## 3. Quiz
