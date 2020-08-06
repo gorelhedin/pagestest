@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Välkommen till våra övningar
 
 Här hittar du vårt [övningsmaterial](exercises/README.md).

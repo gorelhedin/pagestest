@@ -1,0 +1,10 @@
+
+# Site navigation links
+- title: Hem
+  url: /
+
+- title: Uppgifter
+  url: /exercises/README.html
+
+- title: Handledning
+  url: /exercises/handledning.html
