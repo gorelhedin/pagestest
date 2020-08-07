@@ -130,3 +130,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generated files when testing github pages locally
+_site/
+.sass-cache/
+Gemfile.lock
